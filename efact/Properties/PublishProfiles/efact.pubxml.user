@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ActiviesandAttentions.aspx">
+      <publishTime>04/28/2013 20:23:49</publishTime>
+    </File>
+    <File Include="ActivitiesAndAttentions.ascx">
+      <publishTime>04/28/2013 20:03:48</publishTime>
+    </File>
+    <File Include="bin/eFact.BLL.dll">
+      <publishTime>04/28/2013 21:00:31</publishTime>
+    </File>
+    <File Include="bin/efact.dll">
+      <publishTime>04/28/2013 21:00:32</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.dll">
+      <publishTime>04/16/2013 14:20:36</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>04/28/2013 19:23:36</publishTime>
+    </File>
+    <File Include="efact.Master">
+      <publishTime>04/28/2013 20:45:05</publishTime>
+    </File>
+    <File Include="efactModules.aspx">
+      <publishTime>04/28/2013 20:21:25</publishTime>
+    </File>
+    <File Include="EmployeeDetails.aspx">
+      <publishTime>04/28/2013 20:28:22</publishTime>
+    </File>
+    <File Include="HumanResource.aspx">
+      <publishTime>04/28/2013 20:21:30</publishTime>
+    </File>
+    <File Include="Images/background.png">
+      <publishTime>04/27/2013 12:51:04</publishTime>
+    </File>
+    <File Include="Images/efact-HR.png">
+      <publishTime>04/28/2013 13:02:46</publishTime>
+    </File>
+    <File Include="Images/efact_logo.png">
+      <publishTime>04/27/2013 18:28:27</publishTime>
+    </File>
+    <File Include="Images/efact_logo1.png">
+      <publishTime>04/27/2013 18:39:08</publishTime>
+    </File>
+    <File Include="Images/footer.png">
+      <publishTime>04/27/2013 12:48:41</publishTime>
+    </File>
+    <File Include="Images/header.png">
+      <publishTime>04/27/2013 12:48:41</publishTime>
+    </File>
+    <File Include="Images/Icons/About.png">
+      <publishTime>04/28/2013 18:52:02</publishTime>
+    </File>
+    <File Include="Images/Icons/New.png">
+      <publishTime>04/28/2013 18:52:02</publishTime>
+    </File>
+    <File Include="Images/Icons/Save.png">
+      <publishTime>04/28/2013 18:52:02</publishTime>
+    </File>
+    <File Include="Images/loading.gif">
+      <publishTime>04/27/2013 12:50:03</publishTime>
+    </File>
+    <File Include="Images/menu_box.png">
+      <publishTime>04/27/2013 12:49:43</publishTime>
+    </File>
+    <File Include="Images/Modules/Budget.png">
+      <publishTime>04/28/2013 11:55:00</publishTime>
+    </File>
+    <File Include="Images/Modules/Creditor Invoice Processing.png">
+      <publishTime>04/28/2013 11:55:34</publishTime>
+    </File>
+    <File Include="Images/Modules/Expense Processing.png">
+      <publishTime>04/28/2013 11:55:59</publishTime>
+    </File>
+    <File Include="Images/Modules/Fixed Assets.png">
+      <publishTime>04/28/2013 11:56:25</publishTime>
+    </File>
+    <File Include="Images/Modules/Human Resource.png">
+      <publishTime>04/28/2013 11:53:56</publishTime>
+    </File>
+    <File Include="Images/Modules/Reporting.png">
+      <publishTime>04/28/2013 11:56:51</publishTime>
+    </File>
+    <File Include="Images/Modules/Security Management.png">
+      <publishTime>04/28/2013 11:57:12</publishTime>
+    </File>
+    <File Include="Images/Modules/Standing Instructions.png">
+      <publishTime>04/28/2013 11:57:35</publishTime>
+    </File>
+    <File Include="Images/Modules/Suppliers.png">
+      <publishTime>04/28/2013 11:58:05</publishTime>
+    </File>
+    <File Include="Images/Modules/Time Management.png">
+      <publishTime>04/28/2013 11:58:30</publishTime>
+    </File>
+    <File Include="Images/Modules/Transaction Approval.png">
+      <publishTime>04/28/2013 11:58:56</publishTime>
+    </File>
+    <File Include="Images/wrapper.png">
+      <publishTime>04/27/2013 12:47:44</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>04/27/2013 22:58:34</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.min.js">
+      <publishTime>04/21/2013 15:29:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/28/2013 21:00:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

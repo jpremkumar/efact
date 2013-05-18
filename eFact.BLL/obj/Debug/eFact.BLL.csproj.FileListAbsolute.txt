@@ -1,0 +1,13 @@
+E:\P r e m\eFact\eFact\eFact.BLL\bin\Debug\eFact.BLL.dll
+E:\P r e m\eFact\eFact\eFact.BLL\bin\Debug\eFact.BLL.pdb
+E:\P r e m\eFact\eFact\eFact.BLL\obj\Debug\eFact.BLL.dll
+E:\P r e m\eFact\eFact\eFact.BLL\obj\Debug\eFact.BLL.pdb
+E:\NEW\eFact\eFact.BLL\bin\Debug\eFact.BLL.dll
+E:\NEW\eFact\eFact.BLL\bin\Debug\eFact.BLL.pdb
+E:\NEW\eFact\eFact.BLL\obj\Debug\eFact.BLL.csprojResolveAssemblyReference.cache
+E:\NEW\eFact\eFact.BLL\obj\Debug\eFact.BLL.dll
+E:\NEW\eFact\eFact.BLL\obj\Debug\eFact.BLL.pdb
+E:\P r e m\Project\Web\efact\eFact.BLL\bin\Debug\eFact.BLL.dll
+E:\P r e m\Project\Web\efact\eFact.BLL\bin\Debug\eFact.BLL.pdb
+E:\P r e m\Project\Web\efact\eFact.BLL\obj\Debug\eFact.BLL.dll
+E:\P r e m\Project\Web\efact\eFact.BLL\obj\Debug\eFact.BLL.pdb
